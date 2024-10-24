@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency and Gold Prices</string>
+    <string name="connect_internet">اتصال به اینترنت</string>
+    <string name="mobile_internet">اینترنت موبایل</string>
+    <string name="wi_fi">اینترنت wi-fi</string>
+    <string name="connect_to_internet">به اینترنت متصل نیستید! برای استفاده از اپلیکیشن به اینترنت متصل شوید.</string>
+    <string name="todo">todo</string>
+    <string name="gold_price">قیمت طلا</string>
+    <string name="currency_price">قیمت ارز</string>
+</resources>
